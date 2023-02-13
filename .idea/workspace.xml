@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bedc3b8-82b0-4769-9f24-f25f1a6d42cc" name="Changes" comment="Changes Map and Set м2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="7bedc3b8-82b0-4769-9f24-f25f1a6d42cc" name="Changes" comment=" Переробив 3 завдання">
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676286133035</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary=" Переробив 3 завдання">
+      <created>1676298532454</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676298532454</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,6 +106,7 @@
     <MESSAGE value="l4" />
     <MESSAGE value="Changes Map and Set" />
     <MESSAGE value="Changes Map and Set м2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changes Map and Set м2" />
+    <MESSAGE value=" Переробив 3 завдання" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Переробив 3 завдання" />
   </component>
 </project>
